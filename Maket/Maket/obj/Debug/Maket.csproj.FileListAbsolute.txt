@@ -1,0 +1,14 @@
+C:\Users\makss\source\repos\Maket\Maket\bin\Debug\Maket.exe.config
+C:\Users\makss\source\repos\Maket\Maket\bin\Debug\Maket.exe
+C:\Users\makss\source\repos\Maket\Maket\bin\Debug\Maket.pdb
+C:\Users\makss\source\repos\Maket\Maket\obj\Debug\Maket.csprojAssemblyReference.cache
+C:\Users\makss\source\repos\Maket\Maket\obj\Debug\Maket.Properties.Resources.resources
+C:\Users\makss\source\repos\Maket\Maket\obj\Debug\Maket.csproj.GenerateResource.cache
+C:\Users\makss\source\repos\Maket\Maket\obj\Debug\Maket.csproj.CoreCompileInputs.cache
+C:\Users\makss\source\repos\Maket\Maket\obj\Debug\Maket.exe
+C:\Users\makss\source\repos\Maket\Maket\obj\Debug\Maket.pdb
+C:\Users\makss\source\repos\Maket\Maket\obj\Debug\Maket.GeneralMenu.resources
+C:\Users\makss\source\repos\Maket\Maket\obj\Debug\Maket.InfoForm.resources
+C:\Users\makss\source\repos\Maket\Maket\obj\Debug\Maket.FormsForm.resources
+C:\Users\makss\source\repos\Maket\Maket\obj\Debug\Maket.ReportsForm.resources
+C:\Users\makss\source\repos\Maket\Maket\obj\Debug\Maket.DepFizForm.resources
